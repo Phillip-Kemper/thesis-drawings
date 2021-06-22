@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-06-22T15:37:40.029Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="fhaVCWKL2P6JQGmy8kLz" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-22T15:55:24.917Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="fQdTnq8iErl4IH88DaMg" version="14.6.12" type="github">
   <diagram id="F9WXqOc3WK2rtgMnyL9A" name="Page-1">
     <mxGraphModel dx="1426" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UZdlqeoUVViD0pOF1nEa-1" value="Event stream processing plattform" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="UZdlqeoUVViD0pOF1nEa-1" value="Event stream processing platform&amp;nbsp;&lt;br&gt;(Apache Kafka)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="314" y="545" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UZdlqeoUVViD0pOF1nEa-3" value="External Temperature" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
