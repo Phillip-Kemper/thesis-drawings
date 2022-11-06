@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-06T11:26:26.507Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ocJ9r5hM0BJCUjJA7BNc" version="20.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-06T11:33:42.327Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="UIAteIW4-RZ-YgEflWmb" version="20.5.1" type="github" pages="3">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="1426" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -151,6 +151,81 @@
         </mxCell>
         <mxCell id="nESod7RACzGaH_BVtWpB-36" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="335" y="250" width="90" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Wbmiy_IkaWC4UtpxmlyY" name="Page-3">
+    <mxGraphModel dx="1141" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="C6057cIiBUD3O-CSwPgr-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LZDysuQ-_mmQ_GfB2SJm-1" target="C6057cIiBUD3O-CSwPgr-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZDysuQ-_mmQ_GfB2SJm-1" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="270" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C6057cIiBUD3O-CSwPgr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C6057cIiBUD3O-CSwPgr-1" target="C6057cIiBUD3O-CSwPgr-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C6057cIiBUD3O-CSwPgr-1" value="Load &lt;br&gt;Balancer" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="280" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C6057cIiBUD3O-CSwPgr-3" value="upload(photo, title)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IpFNAc5lHi-OXpmS3btn-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C6057cIiBUD3O-CSwPgr-4" target="IpFNAc5lHi-OXpmS3btn-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IpFNAc5lHi-OXpmS3btn-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C6057cIiBUD3O-CSwPgr-4" target="LZDysuQ-_mmQ_GfB2SJm-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="390" />
+              <mxPoint x="125" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C6057cIiBUD3O-CSwPgr-4" value="Server" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="510" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C6057cIiBUD3O-CSwPgr-6" value="assign available&lt;br&gt;write server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="265" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IpFNAc5lHi-OXpmS3btn-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IpFNAc5lHi-OXpmS3btn-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpFNAc5lHi-OXpmS3btn-1" value="Blob Storage (e.g. S3)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="770" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IpFNAc5lHi-OXpmS3btn-2" value="SQL DB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="770" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IpFNAc5lHi-OXpmS3btn-3" value="Search Engine" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="670" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IpFNAc5lHi-OXpmS3btn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IpFNAc5lHi-OXpmS3btn-5" target="IpFNAc5lHi-OXpmS3btn-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IpFNAc5lHi-OXpmS3btn-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.455;entryY=1.03;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IpFNAc5lHi-OXpmS3btn-5" target="IpFNAc5lHi-OXpmS3btn-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IpFNAc5lHi-OXpmS3btn-5" value="Save Metadata&lt;br&gt;(id, creatione time , user&lt;br&gt;etc.)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="245" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IpFNAc5lHi-OXpmS3btn-7" value="upload photo to blob storage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="350" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IpFNAc5lHi-OXpmS3btn-9" value="return on succesful upload" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="405" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IpFNAc5lHi-OXpmS3btn-11" value="index title along photo Id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="720" y="180" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IpFNAc5lHi-OXpmS3btn-14" value="return photo Id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="395" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
