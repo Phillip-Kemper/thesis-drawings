@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-12-19T21:14:45.594Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="IrJaOL98a4YT4MZhe8a6" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-19T21:15:19.396Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ANTmzxz0rIUEJZqKTCUJ" version="20.7.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="2097" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="Coordinator" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="80" width="100" height="480" as="geometry" />
+          <mxGeometry x="120" y="80" width="100" height="560" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-3" value="FileList from Blob Storage" style="verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -45,7 +45,7 @@
             <mxPoint x="175" y="160.00000000000023" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-9" value="done" style="verticalAlign=bottom;endArrow=block;entryX=0.53;entryY=0.497;shadow=0;strokeWidth=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="3nuBFxr9cyL0pnOWT2aG-1" edge="1">
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-9" value="done" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" parent="1" target="3nuBFxr9cyL0pnOWT2aG-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="319" as="sourcePoint" />
             <mxPoint x="175" y="200" as="targetPoint" />
@@ -73,7 +73,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="X_brF7GK9pJHSP2JpN9n-29" value="assign subpartition" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="210" y="375" width="120" height="30" as="geometry" />
+          <mxGeometry x="220" y="430" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X_brF7GK9pJHSP2JpN9n-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.083;exitY=0.135;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.907;entryY=1.055;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="X_brF7GK9pJHSP2JpN9n-27" target="X_brF7GK9pJHSP2JpN9n-31">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -101,6 +101,9 @@
         </mxCell>
         <mxCell id="X_brF7GK9pJHSP2JpN9n-39" value="wait for new task" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="392.5" y="560" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X_brF7GK9pJHSP2JpN9n-40" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;done&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="245" y="510" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
