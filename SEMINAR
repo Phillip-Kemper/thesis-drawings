@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-12T17:35:30.523Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.2" etag="5Ki1yu5LFl9-43z2MZ5p" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-12T17:37:57.074Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.2" etag="gzusQpQfih2ME5BA2gUx" type="github" pages="2">
   <diagram id="2IgbKS0ihbd_Jgd8SHI8" name="Page-1">
     <mxGraphModel dx="819" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -169,13 +169,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ynfE28LPbFBdkQmsI0SL-13" value="&lt;u&gt;Input&amp;nbsp;&lt;br&gt;&lt;/u&gt;Zero-knowledge&lt;br&gt;Proof of Validity" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ynfE28LPbFBdkQmsI0SL-13" value="&lt;u&gt;Input&amp;nbsp;&lt;br&gt;&lt;/u&gt;Zero-knowledge&lt;br&gt;Proof of Validity" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;align=center;" vertex="1" parent="1">
           <mxGeometry x="346" y="560" width="110" height="160" as="geometry" />
         </mxCell>
         <mxCell id="ynfE28LPbFBdkQmsI0SL-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;fontSize=20;endArrow=classic;endFill=1;" edge="1" parent="1" source="ynfE28LPbFBdkQmsI0SL-14" target="ynfE28LPbFBdkQmsI0SL-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ynfE28LPbFBdkQmsI0SL-14" value="&lt;u&gt;Output&lt;/u&gt;&lt;br&gt;Details required to construct a zero-knowledge proof" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ynfE28LPbFBdkQmsI0SL-14" value="&lt;u&gt;Output&lt;/u&gt;&lt;br&gt;&amp;nbsp;to construct a zero-knowledge proof" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="476" y="560" width="100" height="160" as="geometry" />
         </mxCell>
         <mxCell id="ynfE28LPbFBdkQmsI0SL-23" value="Shielded&lt;br&gt;Assets" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=none;" vertex="1" parent="1">
