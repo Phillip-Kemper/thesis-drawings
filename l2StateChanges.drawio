@@ -1,9 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2023-08-20T09:10:16.321Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.6.8" etag="JEknVkzb5na3PDyebjRb" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-20T09:14:27.083Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="IMqq3UaG6iN5A9pufmgS" version="21.6.8" type="github">
   <diagram name="Page-1" id="s3t-MTTtEQxvYr6KZxgZ">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="__oWmwc5Fkxydo5_Rneo-1" value="Trusted" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="180" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="__oWmwc5Fkxydo5_Rneo-2" value="Virtual" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="301" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="__oWmwc5Fkxydo5_Rneo-3" value="Consolidated" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="422" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="__oWmwc5Fkxydo5_Rneo-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="__oWmwc5Fkxydo5_Rneo-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="290" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="__oWmwc5Fkxydo5_Rneo-7" value="L2 Transactions" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="268" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="__oWmwc5Fkxydo5_Rneo-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="__oWmwc5Fkxydo5_Rneo-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="200" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="__oWmwc5Fkxydo5_Rneo-9" value="Sequence&amp;nbsp;&lt;br&gt;Batches" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="__oWmwc5Fkxydo5_Rneo-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="201" as="sourcePoint" />
+            <mxPoint x="420" y="261" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="__oWmwc5Fkxydo5_Rneo-11" value="Verify Sequence&lt;br&gt;of aggregated batches" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="414" y="200" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="__oWmwc5Fkxydo5_Rneo-12" value="Prover" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="__oWmwc5Fkxydo5_Rneo-13" value="Sequencer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
