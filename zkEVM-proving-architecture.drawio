@@ -1,9 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T14:24:53.756Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="21.7.2" etag="4wJlq3vS9qtBlouTnQTF" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-30T14:32:13.936Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="WNOnzwspOeS7bTzhkATe" version="21.7.2" type="github">
   <diagram name="Seite-1" id="w-3b9SBWsjbKsoAVI_m4">
-    <mxGraphModel>
+    <mxGraphModel dx="934" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pRGUPs1ZVXDUdE48YBSI-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pRGUPs1ZVXDUdE48YBSI-1" target="pRGUPs1ZVXDUdE48YBSI-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pRGUPs1ZVXDUdE48YBSI-1" value="&lt;span style=&quot;color: rgb(32, 33, 34); font-family: sans-serif; font-size: 22px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;mwe-math-element&quot;&gt;&lt;img style=&quot;border: 0px; vertical-align: -0.338ex; margin: 0px; display: inline-block; width: 1.332ex; height: 1.676ex;&quot; alt=&quot;\pi&quot; aria-hidden=&quot;true&quot; class=&quot;mwe-math-fallback-image-inline mw-invert&quot; src=&quot;https://wikimedia.org/api/rest_v1/media/math/render/svg/9be4ba0bb8df3af72e90a0535fabcc17431e540a&quot;&gt;&lt;sub&gt;1&lt;/sub&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="85" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pRGUPs1ZVXDUdE48YBSI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pRGUPs1ZVXDUdE48YBSI-2" target="pRGUPs1ZVXDUdE48YBSI-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pRGUPs1ZVXDUdE48YBSI-2" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Proof Aggregation&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pRGUPs1ZVXDUdE48YBSI-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pRGUPs1ZVXDUdE48YBSI-3" target="pRGUPs1ZVXDUdE48YBSI-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pRGUPs1ZVXDUdE48YBSI-3" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Proof Aggregation&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="240" y="260" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pRGUPs1ZVXDUdE48YBSI-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pRGUPs1ZVXDUdE48YBSI-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pRGUPs1ZVXDUdE48YBSI-4" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Proof Aggregation&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="460" y="190" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pRGUPs1ZVXDUdE48YBSI-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pRGUPs1ZVXDUdE48YBSI-5" target="pRGUPs1ZVXDUdE48YBSI-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pRGUPs1ZVXDUdE48YBSI-5" value="&lt;span style=&quot;color: rgb(32, 33, 34); font-family: sans-serif; font-size: 22px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;mwe-math-element&quot;&gt;&lt;img style=&quot;border: 0px; vertical-align: -0.338ex; margin: 0px; display: inline-block; width: 1.332ex; height: 1.676ex;&quot; alt=&quot;\pi&quot; aria-hidden=&quot;true&quot; class=&quot;mwe-math-fallback-image-inline mw-invert&quot; src=&quot;https://wikimedia.org/api/rest_v1/media/math/render/svg/9be4ba0bb8df3af72e90a0535fabcc17431e540a&quot;&gt;&lt;sub&gt;2&lt;/sub&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="185" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pRGUPs1ZVXDUdE48YBSI-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pRGUPs1ZVXDUdE48YBSI-6" target="pRGUPs1ZVXDUdE48YBSI-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pRGUPs1ZVXDUdE48YBSI-6" value="&lt;span style=&quot;color: rgb(32, 33, 34); font-family: sans-serif; font-size: 22px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;mwe-math-element&quot;&gt;&lt;img style=&quot;border: 0px; vertical-align: -0.338ex; margin: 0px; display: inline-block; width: 1.332ex; height: 1.676ex;&quot; alt=&quot;\pi&quot; aria-hidden=&quot;true&quot; class=&quot;mwe-math-fallback-image-inline mw-invert&quot; src=&quot;https://wikimedia.org/api/rest_v1/media/math/render/svg/9be4ba0bb8df3af72e90a0535fabcc17431e540a&quot;&gt;&lt;sub&gt;3&lt;/sub&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="225" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pRGUPs1ZVXDUdE48YBSI-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pRGUPs1ZVXDUdE48YBSI-7" target="pRGUPs1ZVXDUdE48YBSI-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pRGUPs1ZVXDUdE48YBSI-7" value="&lt;span style=&quot;color: rgb(32, 33, 34); font-family: sans-serif; font-size: 22px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;mwe-math-element&quot;&gt;&lt;img style=&quot;border: 0px; vertical-align: -0.338ex; margin: 0px; display: inline-block; width: 1.332ex; height: 1.676ex;&quot; alt=&quot;\pi&quot; aria-hidden=&quot;true&quot; class=&quot;mwe-math-fallback-image-inline mw-invert&quot; src=&quot;https://wikimedia.org/api/rest_v1/media/math/render/svg/9be4ba0bb8df3af72e90a0535fabcc17431e540a&quot;&gt;&lt;sub&gt;4&lt;/sub&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="325" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pRGUPs1ZVXDUdE48YBSI-16" value="&lt;span style=&quot;color: rgb(32, 33, 34); font-family: sans-serif; font-size: 22px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;mwe-math-element&quot;&gt;&lt;img style=&quot;border: 0px; vertical-align: -0.338ex; margin: 0px; display: inline-block; width: 1.332ex; height: 1.676ex;&quot; alt=&quot;\pi&quot; aria-hidden=&quot;true&quot; class=&quot;mwe-math-fallback-image-inline mw-invert&quot; src=&quot;https://wikimedia.org/api/rest_v1/media/math/render/svg/9be4ba0bb8df3af72e90a0535fabcc17431e540a&quot;&gt;&lt;sub&gt;5&lt;/sub&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="120" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pRGUPs1ZVXDUdE48YBSI-17" value="&lt;span style=&quot;color: rgb(32, 33, 34); font-family: sans-serif; font-size: 22px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;mwe-math-element&quot;&gt;&lt;img style=&quot;border: 0px; vertical-align: -0.338ex; margin: 0px; display: inline-block; width: 1.332ex; height: 1.676ex;&quot; alt=&quot;\pi&quot; aria-hidden=&quot;true&quot; class=&quot;mwe-math-fallback-image-inline mw-invert&quot; src=&quot;https://wikimedia.org/api/rest_v1/media/math/render/svg/9be4ba0bb8df3af72e90a0535fabcc17431e540a&quot;&gt;&lt;sub&gt;6&lt;/sub&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="295" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pRGUPs1ZVXDUdE48YBSI-19" value="&lt;span style=&quot;color: rgb(32, 33, 34); font-family: sans-serif; font-size: 22px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;mwe-math-element&quot;&gt;&lt;img style=&quot;border: 0px; vertical-align: -0.338ex; margin: 0px; display: inline-block; width: 1.332ex; height: 1.676ex;&quot; alt=&quot;\pi&quot; aria-hidden=&quot;true&quot; class=&quot;mwe-math-fallback-image-inline mw-invert&quot; src=&quot;https://wikimedia.org/api/rest_v1/media/math/render/svg/9be4ba0bb8df3af72e90a0535fabcc17431e540a&quot;&gt;&lt;sub&gt;7&lt;/sub&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="190" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
