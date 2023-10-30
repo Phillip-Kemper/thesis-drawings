@@ -1,9 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T13:48:04.322Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="21.7.2" etag="F4sFeDt5cR5sgVxbXwqg" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-30T13:57:58.053Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="GvT7wW4Gh0wfV9uasbW1" version="21.7.2" type="github">
   <diagram name="Seite-1" id="EHfjCKFYKotIxhKRCvNh">
-    <mxGraphModel>
+    <mxGraphModel dx="934" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="u-9XW5KBrujEZ_GnhQou-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="u-9XW5KBrujEZ_GnhQou-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="760.4200000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u-9XW5KBrujEZ_GnhQou-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.pinimg.com/originals/51/5b/12/515b12a27356ad88769bc4f4f617d2d3.png;" vertex="1" parent="1">
+          <mxGeometry x="320" y="680" width="161" height="160.84" as="geometry" />
+        </mxCell>
+        <mxCell id="u-9XW5KBrujEZ_GnhQou-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.012;entryY=0.404;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="u-9XW5KBrujEZ_GnhQou-3" target="u-9XW5KBrujEZ_GnhQou-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="640" as="sourcePoint" />
+            <mxPoint x="320" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u-9XW5KBrujEZ_GnhQou-3" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Polynomial Commitment Scheme&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="30" y="540" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="u-9XW5KBrujEZ_GnhQou-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.578;entryDx=0;entryDy=0;strokeWidth=3;entryPerimeter=0;" edge="1" parent="1" source="u-9XW5KBrujEZ_GnhQou-4" target="u-9XW5KBrujEZ_GnhQou-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u-9XW5KBrujEZ_GnhQou-4" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Polynomial Interactive Oracle Proof&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="30" y="860" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="u-9XW5KBrujEZ_GnhQou-9" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;SNARK system&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="600" y="700.42" width="170" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
